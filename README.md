@@ -3,10 +3,10 @@ Portfólio de Programação Matemática – Estruturas Matemáticas para Computa
 Identificação
 
 Aluno: Kauan Vitor Cardoso Alves
-Matrícula: 2622130024
-Curso: Ciência da Computação
-Turno: Matutino
-Disciplina: Estruturas Matemáticas para Computação
+ Matrícula: 2622130024
+ Curso: Ciência da Computação
+ Turno: Matutino
+ Disciplina: Estruturas Matemáticas para Computação
 
 Sobre o portfólio
 
